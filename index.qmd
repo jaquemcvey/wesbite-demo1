@@ -1,10 +1,23 @@
 ---
 title: "wesbite-demo1"
+image: flow.png
+about: 
+  template: trestles
+  image-shape: rectangle
+  image-width: 20em
+  links: 
+    - text: linkedIn
+      href: https://www.linkedin.com/IloveESS/
+    - text: Email
+      href: Jaquemcvey@colostate.edu
+Resume: 
 ---
 
-This is a Quarto website.
+**Education**
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+**experience**
+
+**interests**
 
 ```{r}
 1 + 1
