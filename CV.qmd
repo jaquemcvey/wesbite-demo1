@@ -1,9 +1,37 @@
 ---
 title: "CV"
-author: "Jaque"
+author: "Jaque McVey"
 image: river.jpg
 about:
   template: jolla
   image-shape: rectangle
   image-width: 20em
 ---
+
+**Education**
+
+Bachelor's of Science in Natural Resource Management and Sustainable Water, Colorado State University
+
+Master's of Science in Watershed Science, Colorado State University
+
+**Thesis**
+
+Groundwater Management in The West, Dr. Jacob Petersen-Perlman
+
+**Experience**
+
+Graduate Research Assistant for Groundwater Management, Colorado State University
+
+Teaching Assistant ESS 330, Colorado State University
+
+River Manager, Mountain Whitewater
+
+Water Quality Analyst, Eagle River Water and Sanitation District
+
+Sustainability Technician, Copper Mountain
+
+**Volunteer Work**
+
+Citizens Science Project, Coalition for the Poudre River Watershed
+
+River restoration and clean-up, Mountain Whitewater

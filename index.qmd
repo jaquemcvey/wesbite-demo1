@@ -1,24 +1,19 @@
 ---
-title: "wesbite-demo1"
-image: flow.png
+title: "Jaque's Wesbite"
+image: Jaque.JPG
 about: 
-  template: trestles
+  template: broadside
   image-shape: rectangle
-  image-width: 20em
+  image-width: 10em
   links: 
     - text: linkedIn
       href: https://www.linkedin.com/IloveESS/
     - text: Email
       href: Jaquemcvey@colostate.edu
-Resume: 
+    - text: Research Information
+    - text: Warner College of Natural Resources
 ---
 
-**Education**
+This is my personal website. This website includes information about me including my education, experience, skills interests and prospective career goals!
 
-**experience**
-
-**interests**
-
-```{r}
-1 + 1
-```
+![](Raft.JPEG){width="556"}

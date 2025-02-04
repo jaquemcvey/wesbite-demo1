@@ -1,9 +1,20 @@
 ---
 title: "About"
+image: flow.png
+about:
+  template: marquee
+  image-shape: rectangle
+  image-width: 20em
 ---
 
-About this site
+**About me**
 
-```{r}
-1 + 1
-```
+-   I'm a graduate student in Watershed Science with a passion for hydrology, water quality, and sustainable resource management.
+
+-   I have been a guide and river manager on the Cache La Poudre River for 6 years, which sparked my love for sustaining and restoring rivers.
+
+-   My career goals are water resource management, hydrology, and river restoration
+
+-   I enjoy rafting, splitboarding, and hiking
+
+![](IMG_4613.jpg){width="454"}
